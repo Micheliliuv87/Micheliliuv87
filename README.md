@@ -43,7 +43,7 @@
 
 ### 🖥️ Open-Source Projects
 <table>
-<tr><th>Data Science & AI</th><th>Document Parsing</th></tr>
+<tr><th>Data Science & AI</th><th>Data Collection</th></tr>
 <tr><td>
 
 | Title | Stars | Technologies |
