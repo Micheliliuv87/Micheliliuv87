@@ -9,7 +9,7 @@
 <a href="你的个人网站">
     <img src="https://img.shields.io/badge/Website-michv87-red?style=flat-square">
 </a>  
-<a href="(https://www.linkedin.com/in/micheli87/)">
+<a href="https://www.linkedin.com/in/micheli87/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 <br/> 
