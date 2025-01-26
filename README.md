@@ -20,3 +20,7 @@
 </a>
 
 </p>
+
+### 🚀 精选项目
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Micheliliuv87&repo=ArchOrgSearch)](https://github.com/Micheliliuv87/ArchOrgSearch)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Micheliliuv87&repo=Document-Parser-Agent)](https://github.com/Micheliliuv87/Document-Parser-Agent)
