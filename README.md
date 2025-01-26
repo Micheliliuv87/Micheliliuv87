@@ -23,11 +23,13 @@
 <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Azure-007FFF?style=flat-square&logo=microsoftazure&logoColor=white"/>
-
-<br/><br/>
+<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
+<br/>
 
 <!-- 统计卡片 -->
 <a href="https://github.com/Micheliliuv87">
