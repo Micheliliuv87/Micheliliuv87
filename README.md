@@ -28,7 +28,6 @@
 <img src="https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black"/>
 <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
 <br/>
 
 <!-- 统计卡片 -->
@@ -38,6 +37,19 @@
 
 </p>
 
-### 🚀 Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Micheliliuv87&repo=ArchOrgSearch)](https://github.com/Micheliliuv87/ArchOrgSearch)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Micheliliuv87&repo=Document-Parser-Agent)](https://github.com/Micheliliuv87/Document-Parser-Agent)
+### 🖥️ Open-Source Projects
+<table>
+<tr><th>Data Science & AI</th><th>Document Parsing</th></tr>
+<tr><td>
+
+| Title | Stars | Technologies |
+|--|--|--|
+| [Document-Parser-Agent](https://github.com/Micheliliuv87/Document-Parser-Agent) | <img alt="Stars" src="https://img.shields.io/github/stars/Micheliliuv87/Document-Parser-Agent?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![OpenAI](https://img.shields.io/badge/OpenAI-black?style=flat-square&logo=openai) |
+
+</td><td>
+
+| Title | Stars | Technologies |
+|--|--|--|
+| [Document-Parser-Agent](https://github.com/Micheliliuv87/Document-Parser-Agent) | <img alt="Stars" src="https://img.shields.io/github/stars/Micheliliuv87/Document-Parser-Agent?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)|
+
+</td></tr> </table>
