@@ -50,6 +50,5 @@
 
 | Title | Stars | Technologies |
 |--|--|--|
-| [Document-Parser-Agent](https://github.com/Micheliliuv87/Document-Parser-Agent) | <img alt="Stars" src="https://img.shields.io/github/stars/Micheliliuv87/Document-Parser-Agent?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)|
-
+| [ArchOrgSearch](https://github.com/Micheliliuv87/ArchOrgSearch) | <img alt="Stars" src="https://img.shields.io/github/stars/Micheliliuv87/ArchOrgSearch?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Selenium](https://img.shields.io/badge/Selenium-black?style=flat-square&logo=selenium) |
 </td></tr> </table>
