@@ -1,4 +1,5 @@
 <p align="center">
+
 <!-- 动态打字效果 -->
 <a href="https://github.com/Micheliliuv87">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Mich_V87;+DS+%7CResearcher;+Game Developer+%7C+Artist" alt="Typing SVG" />
