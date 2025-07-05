@@ -58,9 +58,8 @@
 </td><td>
 
 | Title | Stars | Technologies |
-|--|--|--|
-| [ArchOrgSearch](https://github.com/Micheliliuv87/ArchOrgSearch) | <img alt="Stars" src="https://img.shields.io/github/stars/Micheliliuv87/ArchOrgSearch?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Selenium](https://img.shields.io/badge/Selenium-black?style=flat-square&logo=selenium) |
-|[DeepSeek Reasoner Parser](https://github.com/Micheliliuv87/deepseek_reasoner_parser) | <img alt="Stars" src="https://img.shields.io/github/stars/Micheliliuv87/deepseek_reasoner_parser?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Selenium](https://img.shields.io/badge/Selenium-black?style=flat-square&logo=selenium) |
-</td></tr> </table>
+|------|-------|--------|
+| [ArchOrgSearch](https://github.com/Micheliliuv87/ArchOrgSearch) | ![Stars](https://img.shields.io/github/stars/Micheliliuv87/ArchOrgSearch?style=flat-square&labelColor=black) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Selenium](https://img.shields.io/badge/Selenium-black?style=flat-square&logo=selenium) |
+| [DeepSeek Reasoner Parser](https://github.com/Micheliliuv87/deepseek_reasoner_parser) | ![Stars](https://img.shields.io/github/stars/Micheliliuv87/deepseek_reasoner_parser?style=flat-square&labelColor=black) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Selenium](https://img.shields.io/badge/Selenium-black?style=flat-square&logo=selenium) |</td></tr> </table>
 
 
