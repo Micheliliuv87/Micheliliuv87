@@ -2,7 +2,7 @@
 
 <!-- 动态打字效果 -->
 <a href="https://github.com/Micheliliuv87">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=200&multiline=true&width=500&height=80&lines=Mich_V87;+DS+%7CResearch;+LLM+%7CAgents,+Training,+Frameworks" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=200&multiline=true&width=500&height=80&lines=Mich_V87;+DS+%7CResearch;+LLM+%7CAgents,+Training" alt="Typing SVG" />
 </a>
 <br/>
 
